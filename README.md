@@ -6,6 +6,7 @@ It is currently tested with the following devices:
 
 Based on the code of [MMM-scrape](https://github.com/anyhow/MMM-scrape).
 
+![Image](MMM-Deye.png "example view")
 ## Installation
 
 Clone repository and install dependencies:
