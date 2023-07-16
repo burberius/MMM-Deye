@@ -1,0 +1,7 @@
+table#deye td.key {
+  font-weight: bold;
+}
+table#deye td.value {
+  text-align: right;
+  color: lightgreen;
+}
